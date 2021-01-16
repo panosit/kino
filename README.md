@@ -1,1 +1,1 @@
-A static site for a mobile app!
+A static site for a mobile app(template is from colorlib).
